@@ -1,5 +1,5 @@
 # Machine_learning_exercise
-This is a coursera online course from Andrew Ng (ex1 to ex5)
+This is a coursera online course from Andrew Ng (ex1 to ex5) <br>
 Relevant key points for each exercise is listed below for future convenience
 
 - Ex1:
